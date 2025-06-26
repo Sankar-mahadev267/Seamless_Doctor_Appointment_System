@@ -1,3 +1,26 @@
+
+PROJECT FLOW : 
+
+Project Demo : 
+●	Before diving into development, you can view a demo of the project to understand its functionality and user interactions.
+●	Project FlowDemo Video : 
+https://drive.google.com/file/d/1WeQLeuxU_-2jRGqlZTpecYoWvxRZ47RO/view?usp=sharing
+
+•	Project Code drive link:
+https://drive.google.com/drive/folders/1LgXkADVIyHuHOKgJtYtb6hXeCk2zsfcC?usp=sharing
+●	The source code for this project can be accessed and cloned from GitHub, providing a base structure and example code for further customization and understanding.
+●	GitHub Repository: https://github.com/Sankar-mahadev267/Seamless_Doctor_Appointment_System
+
+Video Tutorials : 
+
+●	For a step-by-step guide on setting up and working with this project, follow the video tutorials below:
+●	Video Guide 1: Setting Up the Backend
+●	Video Guide 2: Configuring Frontend and API Endpoints
+●	Video Guide 3: Testing and Deployment
+●	These resources should give you a solid foundation and clear understanding of the project structure and workflow before development begins.
+
+
+
 FOLDER SETUP : 
 
 The folder structure for your Doctor Appointment Webpage project will include separate folders for the frontend and backend components to keep the code organised and modular. Here’s how to set it up:
